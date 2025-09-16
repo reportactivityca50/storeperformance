@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/AKfycbzF5bHpxlG-alL-LwGycRM4vcOhifppDQxRL_3m8dSnOJvsWpqruNtqLctdj3iD-Ko1-A/exec">
+  <title>Redirecting...</title>
+</head>
+<body>
+  <p>
+    Mengarahkan ke aplikasi Monitoring Apps...
+    <br>
+    <a href="https://script.google.com/macros/s/AKfycbzF5bHpxlG-alL-LwGycRM4vcOhifppDQxRL_3m8dSnOJvsWpqruNtqLctdj3iD-Ko1-A/exec">
+      Klik di sini jika tidak otomatis.
+    </a>
+  </p>
+</body>
+</html>
